@@ -6,8 +6,6 @@
 
 A comprehensive toolkit for fine-tuning GPT-2 language models and generating text using various decoding strategies. This project demonstrates how different text generation methods affect output quality and diversity.
 
-![GPT-2 Text Generation]
-
 ## 🌟 Features
 
 - Fine-tune GPT-2 models on custom datasets
