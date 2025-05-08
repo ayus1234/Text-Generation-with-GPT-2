@@ -1,4 +1,4 @@
-# Text Generation with GPT-2 🤖
+# Text Generation with GPT-2
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.18%2B-orange)](https://huggingface.co/transformers/)
