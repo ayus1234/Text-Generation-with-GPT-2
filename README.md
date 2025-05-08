@@ -1,4 +1,4 @@
-# Text Generation with GPT-2
+# Text Generation with GPT-2 🤖
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.18%2B-orange)](https://huggingface.co/transformers/)
@@ -6,7 +6,7 @@
 
 A comprehensive toolkit for fine-tuning GPT-2 language models and generating text using various decoding strategies. This project demonstrates how different text generation methods affect output quality and diversity.
 
-![GPT-2 Text Generation](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/gpt2-thumbnail.png)
+![GPT-2 Text Generation]
 
 ## 🌟 Features
 
